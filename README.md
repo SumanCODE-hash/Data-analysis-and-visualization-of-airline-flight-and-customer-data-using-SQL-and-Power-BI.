@@ -106,5 +106,3 @@ The dashboard is designed for **executive readability** and **self-service explo
 - Commercial and marketing decision support
 
 ---
-
-## 📎 Repository Structure
